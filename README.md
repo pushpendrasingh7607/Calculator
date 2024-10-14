@@ -21,3 +21,4 @@ The primary goal of this project is to create a functional and aesthetically ple
 ---
 
 Feel free to modify any part to better fit your project!
+![Screenshot 2024-10-14 143037](https://github.com/user-attachments/assets/b98df602-51db-461f-bdf1-f35f3e2e3819)
